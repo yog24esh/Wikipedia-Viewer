@@ -1,0 +1,19 @@
+.wrap{
+  width: 30%;
+  position:relative;
+  margin-top:15%;
+  left: 35%;
+}
+
+.searchWord{
+  float: left;
+  width:100%;
+  border: 3px solid #3cd4d3;
+  padding-left:10px;
+  height:35px;
+  border-radius: 20px;
+  color:#1f536b;
+}
+.searchWord:focus{
+  color: #00B4CC;
+}
